@@ -1,1 +1,1 @@
-# HedMaze
+# maze2quest
